@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map PID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PID  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+update KEYWORD2
+setPID KEYWORD2
+set_P KEYWORD2
+set_I KEYWORD2
+set_D KEYWORD2  
+setGains KEYWORD2
+set_limits KEYWORD2
+set KEYWORD2
+begin KEYWORD2
+reset KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
